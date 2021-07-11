@@ -1,0 +1,48 @@
+.box{
+    background-color: red;
+    min-height: 50px;;
+}
+/* layout */
+.header, .hero, .body, .footer{
+    margin-bottom:10px;
+    background-color: fuchsia;
+    min-height:80px;
+}
+h2{
+    text-align:center;
+    
+}
+.box1{
+    margin:10px 0;
+    background-color:aqua;
+    min-height: 80px;
+    font-size:30px;
+    font-weight:500;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.black{
+    background: black;
+}
+.hb-50{
+    min-height:50px;
+}
+.box2{
+    margin-right:20px;
+    background-color:darkseagreen;
+    width:100px;
+    height:100px;
+    margin-bottom: 25px;
+}
+.ta{
+    text-align:center;
+}
+.div8{
+    height:100px;
+    background-color: darkslategray;
+    margin-top:20px;
+}
